@@ -1,4 +1,4 @@
 # nacl-types-reproduction
 
-`npm i`
-`node index.ts`
+- `npm i`
+- `node index.ts`
